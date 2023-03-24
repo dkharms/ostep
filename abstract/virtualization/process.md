@@ -9,7 +9,7 @@ Although there are only a few physical CPUs available, how can the
 OS provide the illusion of a nearly-endless supply of said CPUs?
 
 
-#### Mechanisms [TERMIN]
+### Mechanisms [TERMIN]
  
 Mechanisms are low-level methods or protocols that implement a needed piece of functionality.
 
@@ -17,7 +17,7 @@ Mechanisms are low-level methods or protocols that implement a needed piece of f
 - Time-sharing mechanism;
 
 
-#### Policy [TERMIN]
+### Policy [TERMIN]
 
 On top of these mechanisms resides some of the intelligence in the OS, in the form of policies.
 
@@ -27,7 +27,7 @@ On top of these mechanisms resides some of the intelligence in the OS, in the fo
 ## The Abstraction: A Process [SUBCHAPTER]
 
 
-#### Machine State [TERMIN]
+### Machine State [TERMIN]
 
 Machine state constitutes a process.
 
@@ -66,12 +66,12 @@ Machine state constitutes a process.
 ## Data Structures [SUBCHAPTER]
 
 
-### Process List
+### Process List [TERMIN]
 
 Process list keeps track of processes.
 
 
-### Process Control Block
+### Process Control Block [TERMIN]
 
 Process Control Block (PCB, Process descriptor) – structure with information about process.
 
